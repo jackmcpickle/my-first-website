@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+.heading-1 {
+    font-size: 20px;
+    margin-top: 50px;
+    color: white;
+    font-family: sans-serif;
+}
